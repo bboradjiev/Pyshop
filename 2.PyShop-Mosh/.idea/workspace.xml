@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bf6128-e571-480b-ae27-73cee021b951" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bRhDW05r1v2dtrLs4WeeZFLMfr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.First_clone_project-Jose" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bboradji\Desktop\Softuni\2.PyShop-Mosh" />
+      <recent name="C:\Users\bboradji\Desktop\Softuni\2.PyShop-Mosh\templates" />
+      <recent name="C:\Users\bboradji\Desktop\Softuni\2.PyShop-Mosh\pyshop" />
+      <recent name="C:\Users\bboradji\Desktop\Softuni\2.PyShop-Mosh\products" />
+      <recent name="C:\Users\bboradji\Desktop\Softuni\2.PyShop-Mosh\products\templates\products" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5bf6128-e571-480b-ae27-73cee021b951" name="Default Changelist" comment="" />
+      <created>1588600693309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588600693309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="278" key="FileChooserDialogImpl" timestamp="1588923318323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588923318323" />
+    <state x="0" y="162" key="SettingsEditor" timestamp="1588842234891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588842234891" />
+    <state x="245" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1588600752570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="245" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588600752570" />
+  </component>
+</project>

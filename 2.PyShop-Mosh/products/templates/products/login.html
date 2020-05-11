@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% if user.is_authenticated %}
+<h1> thank you for logging in</h1>
+{% else %}
+<div class="jumbotron">
+    <h1>Please Login Below</h1>
+    <form action="{% url 'product:user_login' %}" method="POST">
+        {% csrf_token %}
+
+        <label for="username">Username:</label>
+        <input type="text" name="username" placeholder="Enter Username" >
+
+        <label for="password">Password:</label>
+        <input type="password" name="password" placeholder="Enter Password">
+
+        <input type="submit" value="Login" >
+    </form>
+</div>
+{% endif %}
+
+{% endblock %}

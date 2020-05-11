@@ -1,0 +1,20 @@
+
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    padding: 0.1em;
+    }
+
+.container{
+
+    text-align: center;
+    padding: 2em;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+

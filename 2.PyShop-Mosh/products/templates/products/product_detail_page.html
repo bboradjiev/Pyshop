@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div>
+        <h1>This is your product</h1><br>
+        <h3>Product Type: {{ product_detail.name }}</h3>
+        <h3>Product Price: {{ product_detail.price }}</h3>
+        <h3>Current Stock: {{ product_detail.stock }}</h3>
+        <img class="images" src="{{ product_detail.image_url }}">
+        <p></p>
+        <a class='btn btn-danger' href="{% url 'product:delete' pk=product_detail.pk %} ">Delete</a>
+        <a class='btn btn-warning' href="{% url 'product:update' pk=product_detail.pk %} ">Update</a>
+        <a class='btn btn-warning' href="{% url 'product:list' %} ">Cancel</a>
+</div>
+
+{% endblock %}
